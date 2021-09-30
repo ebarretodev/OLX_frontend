@@ -12,7 +12,10 @@ This project is about to replicate a frontend from the old version of website [h
 
 Clone the repository and in the project directory run:
 
-`npm start`
+```
+npm install
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
